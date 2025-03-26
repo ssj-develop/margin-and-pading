@@ -1,0 +1,25 @@
+body {
+    background-color: #2F4F4F;
+    color: white;
+    text-align: center;
+
+}
+h1 {
+    background-color: #4D0F0F;
+    padding: 10px;
+    color: white;
+}
+
+.container {
+    border: 5px solid red;
+    padding: 20px;
+}
+
+.box {
+    background-color: aqua;
+    padding: 50px;
+    border: 5px solid black;
+    margin:50px;
+    text-align:center;
+    width: 900px;
+}
